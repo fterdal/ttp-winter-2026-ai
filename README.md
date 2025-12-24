@@ -1,6 +1,6 @@
 # 🤖💻❄️ **Tech Talent Pipeline (TTP), Winter 2026**
 
-👋🏻 Hi there! This is the cohort repo for the Special Topics: AI Coding Tools – Tech Talent Pipeline, Winter of 2026 at BMCC. This is your single source of truth for all materials related to the course, namely assignments, recorded lectures, slides, and code demos.
+👋🏻 Hi there! This is the cohort repo for _Special Topics: AI Coding Tools – Tech Talent Pipeline, Winter of 2026 at BMCC_. This is your single source of truth for all materials related to the course, namely assignments, recorded lectures, slides, and code demos.
 
 We'll be exploring the use of Large Language Models (LLMs) to augment your software engineering process. The following themes will recur throughout this course:
 
