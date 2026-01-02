@@ -22,6 +22,7 @@ This course runs from January 2 through January 21. You will be asked to create 
   - Also, check out the [🕹️ Tokenizer Playground](https://huggingface.co/spaces/Xenova/the-tokenizer-playground) linked in that blog post.
 - [📖 Exclusive: OpenAI Used Kenyan Workers on Less Than $2 Per Hour to Make ChatGPT Less Toxic](https://time.com/6247678/openai-chatgpt-kenya-workers/)
 - [📖 The Emerging Problem of "AI Psychosis"](https://www.psychologytoday.com/us/blog/urban-survival/202507/the-emerging-problem-of-ai-psychosis)
+- [📖 Linux Kernel’s AI Code Revolution: Guidelines for the Machine Age](https://www.webpronews.com/linux-kernels-ai-code-revolution-guidelines-for-the-machine-age/)
 
 #### Install
 
