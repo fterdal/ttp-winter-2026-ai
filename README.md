@@ -14,6 +14,21 @@ This course runs from January 2 through January 21. You will be asked to create 
 
 ### January 2
 
+#### Reading / Watching
+
+- [📺 Large Language Models explained briefly](https://youtu.be/LPZh9BOjkQs?si=P7HEJeNh2LTOFrRV)
+- [📖 What is Tokenization - Hugging Face](https://huggingface.co/blog/tokenizers#what-is-tokenization)
+  - We won't actually be building our own LLMs in this course, but you should skim this blog post to get a sense for how these models are engineered. Hugging Face is a good learning resource for this sort of thing.
+  - Also, check out the [🕹️ Tokenizer Playground](https://huggingface.co/spaces/Xenova/the-tokenizer-playground) linked in that blog post.
+- [📖 Exclusive: OpenAI Used Kenyan Workers on Less Than $2 Per Hour to Make ChatGPT Less Toxic](https://time.com/6247678/openai-chatgpt-kenya-workers/)
+- [📖 The Emerging Problem of "AI Psychosis"](https://www.psychologytoday.com/us/blog/urban-survival/202507/the-emerging-problem-of-ai-psychosis)
+
+#### Install
+
+- [💻 Cursor](https://cursor.com/docs/downloads)
+- [💻 Claude Code](https://code.claude.com/docs/en/setup)
+- [💻 Warp](https://docs.warp.dev/getting-started/readme/installation-and-setup)
+
 ## 🐣 Building From Scratch (4 days)
 
 ### January 5
