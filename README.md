@@ -34,7 +34,11 @@ This course runs from January 2 through January 21. You will be asked to create 
 
 - [📺 Lecture Recording](https://youtu.be/1LXSydxh0M8)
 - [🖼️ Lecture Slides](./slides/Intro.pdf)
-- [💻 Project 1 Starting Point](https://github.com/fterdal/rcv-polls)
+
+#### Project 1 (due at 11:59pm on January 8)
+
+- [💻 Starting Point](https://github.com/fterdal/rcv-polls)
+- [✅ Submission Sheet](https://docs.google.com/spreadsheets/d/1Bt_kVCj3DXzqGTUWMLUoZPcHMjrju7at-jcBCbDvBaw/edit?usp=sharing)
 
 ## 🐣 Building From Scratch (4 days)
 
