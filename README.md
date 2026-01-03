@@ -28,6 +28,7 @@ This course runs from January 2 through January 21. You will be asked to create 
 
 - [💻 Cursor](https://cursor.com/docs/downloads)
 - [💻 Claude Code](https://code.claude.com/docs/en/setup)
+- [📖 Crush + OpenRouter](https://gist.github.com/fterdal/f6289ba862d7d60117d25b000c08054e)
 - [💻 Warp](https://docs.warp.dev/getting-started/readme/installation-and-setup)
 
 #### Lecture
