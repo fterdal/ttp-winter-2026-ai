@@ -30,6 +30,12 @@ This course runs from January 2 through January 21. You will be asked to create 
 - [💻 Claude Code](https://code.claude.com/docs/en/setup)
 - [💻 Warp](https://docs.warp.dev/getting-started/readme/installation-and-setup)
 
+#### Lecture
+
+- [📺 Lecture Recording](https://youtu.be/1LXSydxh0M8)
+- [🖼️ Lecture Slides](./slides/Intro.pdf)
+- [💻 Project 1 Starting Point](https://github.com/fterdal/rcv-polls)
+
 ## 🐣 Building From Scratch (4 days)
 
 ### January 5
@@ -39,6 +45,8 @@ This course runs from January 2 through January 21. You will be asked to create 
 ### January 7
 
 ### January 8
+
+**Project #1 is due at 11:59pm on January 8**
 
 ## 🦅 Working on Larger Projects (7 days)
 
