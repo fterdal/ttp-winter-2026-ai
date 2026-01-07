@@ -51,6 +51,8 @@ This course runs from January 2 through January 21. You will be asked to create 
 
 ### January 6
 
+- [📺 Lecture Recording](https://youtu.be/coj7gSc5eu4)
+
 ### January 7
 
 ### January 8
