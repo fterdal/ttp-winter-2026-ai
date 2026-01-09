@@ -45,27 +45,19 @@ This course runs from January 2 through January 21. You will be asked to create 
 
 ### January 5
 
-#### Lecture
-
 - [📺 Lecture Recording](https://youtu.be/EI_F4u7Of2w)
 
 ### January 6
 
-#### Lecture
-
 - [📺 Lecture Recording](https://youtu.be/coj7gSc5eu4)
 
 ### January 7
-
-#### Lecture
 
 - [📺 Lecture Recording](https://youtu.be/mus__W6-1eY)
 
 ### January 8
 
 **Project #1 is due at 11:59pm on January 8**
-
-#### Lecture
 
 - [📺 Lecture Recording](https://youtu.be/R5R7nyFlimM)
 
