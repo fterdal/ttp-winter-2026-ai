@@ -65,6 +65,9 @@ This course runs from January 2 through January 21. You will be asked to create 
 
 ### January 9
 
+- [📺 Lecture Recording](https://youtu.be/llI4J5omqVE)
+- [🖼️ Lecture Slides](./slides/project-2.pdf)
+
 ### January 12
 
 ### January 13
