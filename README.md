@@ -74,7 +74,7 @@ This course runs from January 2 through January 21. You will be asked to create 
 #### Pre-Approved Projects
 
 - [🔗 Fastify](https://github.com/fastify/fastify/issues)
-- [🔗 NextJS](https://github.com/vercel/next.js/issues?)q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22
+- [🔗 NextJS](https://github.com/vercel/next.js/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22)
 - [🔗 VSCode](https://github.com/microsoft/vscode/wiki/How-to-Contribute)
 - [🔗 Firefox Dev Tools](https://codetribute.mozilla.org/projects/firefox-devtools)
 - [🔗 Cesium](https://github.com/CesiumGS/cesium/contribute)
