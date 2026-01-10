@@ -65,6 +65,22 @@ This course runs from January 2 through January 21. You will be asked to create 
 
 ### January 9
 
+#### Finding a good project
+
+- [🔗 Good First Issue](https://goodfirstissue.dev/)
+- [🔗 Up For Grabs](https://up-for-grabs.net/#/)
+- [🔗 Code Tribute](https://codetribute.mozilla.org/)
+
+#### Pre-Approved Projects
+
+- [🔗 Fastify](https://github.com/fastify/fastify/issues)
+- [🔗 NextJS](https://github.com/vercel/next.js/issues?)q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22
+- [🔗 VSCode](https://github.com/microsoft/vscode/wiki/How-to-Contribute)
+- [🔗 Firefox Dev Tools](https://codetribute.mozilla.org/projects/firefox-devtools)
+- [🔗 Cesium](https://github.com/CesiumGS/cesium/contribute)
+
+#### Lecture
+
 - [📺 Lecture Recording](https://youtu.be/llI4J5omqVE)
 - [🖼️ Lecture Slides](./slides/project-2.pdf)
 
