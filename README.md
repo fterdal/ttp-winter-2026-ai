@@ -92,6 +92,8 @@ This course runs from January 2 through January 21. You will be asked to create 
 
 **Enter which open source project you want to work on for Project #2 by 11:59pm on January 13**
 
+- [✅ Project Signup Sheet](https://docs.google.com/spreadsheets/d/1Bt_kVCj3DXzqGTUWMLUoZPcHMjrju7at-jcBCbDvBaw/edit?gid=1986048124#gid=1986048124)
+
 ### January 14
 
 ### January 15
