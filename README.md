@@ -86,7 +86,11 @@ This course runs from January 2 through January 21. You will be asked to create 
 
 ### January 12
 
+😎 No lecture today, just breakout rooms and exploring fun open-source projects to work on.
+
 ### January 13
+
+**Enter which open source project you want to work on for Project #2 by 11:59pm on January 13**
 
 ### January 14
 
