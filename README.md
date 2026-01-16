@@ -78,6 +78,7 @@ This course runs from January 2 through January 21. You will be asked to create 
 - [🔗 VSCode](https://github.com/microsoft/vscode/wiki/How-to-Contribute)
 - [🔗 Firefox Dev Tools](https://codetribute.mozilla.org/projects/firefox-devtools)
 - [🔗 Cesium](https://github.com/CesiumGS/cesium/contribute)
+- [🔗 JobSeaker Analytics](https://github.com/JustAJobApp/jobseeker-analytics/issues)
 
 #### Lecture
 
