@@ -1,26 +1,26 @@
-# Open Source Contributions, Part 2
+# 💻 Open Source Contributions, Part 2
 (Optional)
 
-## Retrospective
+## 💬 Retrospective
 
 - Very few students were able to get a bug resolved (Not your fault! ❤️)
-- Difficult for students to find good good-first-bugs
+- Difficult for students to find _good_ good-first-bugs
 - Project maintainers were slow to respond
 
-## Benefits
+## 🥇 Benefits
 
 - Contributing to an open source project is a great way to impress recruiters / interviewers
 - Good practice for onboarding into a big repo
 - Feels good to contribute to something people actually use
 - Networking opportunities with professional software engineers
 
-## Mozilla Focus
+## 🦊 Mozilla Focus
 
 - I've found that the best way to get a first contribution over the finish line is to have a couple maintainers within the project
 - There are several Mozilla employees who have prior experience mentoring first vontributors, and there is a very active community of external contributors for Mozilla
 - I (Finn) will work with my colleages to curate a list of actually good good-first-bugs, and recruit other Mozilla employees to help
 
-## Next Steps
+## ✅ Next Steps
 
 - I (Finn) will make myself available for continued assistance on open source contributions
 - Availability will be async over Discord / [Matrix](https://wiki.mozilla.org/index.php?title=Matrix&mobileaction=toggle_view_mobile)
