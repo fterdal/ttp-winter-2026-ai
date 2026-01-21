@@ -18,7 +18,7 @@
 
 - I've found that the best way to get a first contribution over the finish line is to have a couple maintainers within the project
 - There are several Mozilla employees who have prior experience mentoring first vontributors, and there is a very active community of external contributors for Mozilla
-- I (Finn) will work with my colleages to curate a list of actually good good-first-bugs, and recruit other Mozilla employees to help
+- I (Finn) will work with my colleages to curate a list of actually good good-first-bugs, and recruit other Mozilla employees to help mentor
 - As it turns out, Mozilla employees have complained that there are many good-first-bugs that no one is picking up, so there's plenty of supply!
 
 ## ✅ Next Steps
