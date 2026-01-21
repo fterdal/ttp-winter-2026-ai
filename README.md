@@ -106,3 +106,5 @@ This course runs from January 2 through January 21. You will be asked to create 
 ## 🦖 Retrospective & Presentations (1 day)
 
 ### January 21
+
+- [Retrospective & Sequel](./slides/SEQUEL.md)
