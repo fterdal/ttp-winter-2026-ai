@@ -6,7 +6,9 @@
 <details>
 <summary>Click Me</summary>
 - Very few students were able to get a bug resolved (Not your fault! ❤️)
+
 - Difficult for students to find _good_ good-first-bugs
+
 - Project maintainers were slow to respond
 </details>
 
