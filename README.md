@@ -107,5 +107,6 @@ This course runs from January 2 through January 21. You will be asked to create 
 
 ### January 21
 
-- [Retrospective & Sequel](./slides/SEQUEL.md)
-- [Signup Google Form](https://forms.gle/VB7ywU6ceyYg4tQJA)
+- [📖 Retrospective & Sequel](./slides/SEQUEL.md)
+- [📋 Signup Google Form](https://forms.gle/VB7ywU6ceyYg4tQJA)
+- [📺 Lecture Recording](https://youtu.be/sa7ArDkURTo)
